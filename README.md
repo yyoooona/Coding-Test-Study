@@ -1,6 +1,4 @@
-# Coding-Test-Study
-
-# Algorithm 
+# Algorithm
 
 ## Algorithm 사이트
 [Programmers](https://programmers.co.kr/learn/challenges) <br/>
